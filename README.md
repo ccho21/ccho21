@@ -1,17 +1,11 @@
 <div align="center">
 
-# Charles Cho
-
-## Software Developer | Angular Specialist | Front-End Expert
-
-</div>
-
-<div align="center">
+<h1 style="border-bottom: none">Charles Cho</h1>
+<h2>Software Developer | Angular Specialist | Front-End Expert</h2>
 
 ![Location](https://img.shields.io/badge/-Toronto,%20ON%20M4P%200E4-2f2f2f)
 ![Email](https://img.shields.io/badge/-changsoo.charles.cho%40gmail.com-2f2f2f)
 ![Phone](https://img.shields.io/badge/-+1%20647%20833%201458-2f2f2f)
-
 </div>
 
 ---
@@ -58,23 +52,16 @@ Accomplished Software Developer with a focus on front-end development and a trac
 
 ---
 
-## Education
+## Repositories
 
-DCS / DEC in COMPUTER PROGRAMMING  
-Seneca College - Toronto, ON | September 2015 to August 2017  
-
----
-
-## Languages
-
-- Korean - Fluent
-- English - Fluent
+- [Get Together](https://github.com/ccho21/get-together)
+- [PF Angular Combined](https://github.com/ccho21/pf-angular-combined)
+- [Minesweeper](https://github.com/ccho21/minesweeper)
 
 ---
 
 ## Links
 
-- [GitHub](https://github.com/ccho21)
 - [LinkedIn](https://www.linkedin.com/in/changsoo-charles-cho)
 
 ---
