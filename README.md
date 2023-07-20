@@ -10,12 +10,6 @@
 
 ---
 
-## Professional Summary
-
-Accomplished Software Developer with a focus on front-end development and a track record of 5 years in the industry. Proficient in creating and maintaining complex applications with a keen eye for clean, modular, and reusable code. Demonstrated expertise in a wide range of programming skills and a commitment to continuous learning and staying abreast of the latest industry trends. Known for a proactive approach, problem-solving mindset, and the ability to work effectively in diverse teams.
-
----
-
 ## Skills
 
 <div align="center">
